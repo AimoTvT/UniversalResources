@@ -1,16 +1,16 @@
-# ResourcesExpansions
-> - Name: Resource extension
+# UniversalResources
+> - Name: Universal Resources
 > - Description: A variety of free resources to expand, streamline, practical, currently not perfect
 > - Materials // folder, is a variety of materials, such as streamer, cover round, cover roll...
 > - Textures // folder, I logo, all kinds of border style pictures, material texture
 
-# 资源扩展
-> - 名字: 资源扩展
+# 万能资源(UE > 5.5 旧名字是资源扩展(ResourcesExpansions))
+> - 名字: 万能资源
 > - 描述: 各种免费资源的扩展,精简,实用,目前尚未完善
 > - Materials //文件夹,是各种材质,如流光,遮盖圆形,遮盖滚动...
 > - Textures //文件夹,本人标识,各种边框的样式图片,材质纹理
 
-## Engine version (>= 5.3.0)
+## Engine version (>= 5.5.0)
 
 > - Copyright: Aimo\_皑墨
 > - Open source protocol: Apache License 2.0
@@ -19,7 +19,7 @@
 > - wechat: Aimo_TvT
 > - Email: 2422489737@qq.com
 > - BiLiBiLi (哔哩哔哩) address: https://space.bilibili.com/146962867
-> - Open source address(GitHub): https://github.com/AimoTvT/ResourcesExpansions
+> - Open source address(GitHub): https://github.com/AimoTvT/UniversalResources
 > - We welcome the contributions of powerful movers and movers to join this plugin
 > - Build powerful plugins together!!
 
@@ -42,7 +42,7 @@
 >> - This plugin is used as a base resource for other plugins, so it is free and not yet complete
 >> - The plug-in package can be free, and I have to write the code of the material later, and it is a universal material function, so the plug-in is more suitable
 
-## 引擎版本( >= 5.4.0 )
+## 引擎版本( >= 5.5.0 )
 
 > - 版权所有权: Aimo\_皑墨
 > - 开源协议: Apache License 2.0
@@ -51,7 +51,7 @@
 > - 微信: Aimo_TvT
 > - 邮箱: 2422489737@qq.com
 > - BiLiBiLi(哔哩哔哩)地址: https://space.bilibili.com/146962867
-> - 开源地址(GitHub): https://github.com/AimoTvT/ResourcesExpansions
+> - 开源地址(GitHub): https://github.com/AimoTvT/UniversalResources
 > - 欢迎有实力的大佬/萌新加入本插件的贡献
 > - 一起打造强大的插件!!!
 
