@@ -4,7 +4,7 @@
 > - Materials // folder, is a variety of materials, such as streamer, cover round, cover roll...
 > - Textures // folder, I logo, all kinds of border style pictures, material texture
 
-# 万能资源(UE > 5.5 旧名字是资源扩展(ResourcesExpansions))
+# 万能资源(引擎UE版本小于 5.5 旧名字是资源扩展(ResourcesExpansions))
 > - 名字: 万能资源
 > - 描述: 各种免费资源的扩展,精简,实用,目前尚未完善
 > - Materials //文件夹,是各种材质,如流光,遮盖圆形,遮盖滚动...
